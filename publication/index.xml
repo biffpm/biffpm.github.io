@@ -31,5 +31,55 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://biffpm.github.io/publication/egypt_vaw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://biffpm.github.io/publication/egypt_vaw/</guid>
+      <description>&lt;p&gt;#&amp;mdash;&lt;/p&gt;
+&lt;h1 id=&#34;documentation-httpswowchemycomdocsmanaging-content&#34;&gt;Documentation: &lt;a href=&#34;https://wowchemy.com/docs/managing-content/&#34;&gt;https://wowchemy.com/docs/managing-content/&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;#title: &amp;ldquo;Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?&amp;rdquo;
+#subtitle: &amp;quot;&amp;quot;
+#summary: &amp;quot;&amp;quot;
+#authors: []
+#tags: []
+#categories: []
+#date: 2022-11-02T18:56:12-04:00
+#lastmod: 2022-11-02T18:56:12-04:00
+#featured: false
+#draft: false&lt;/p&gt;
+&lt;h1 id=&#34;featured-image&#34;&gt;Featured image&lt;/h1&gt;
+&lt;h1 id=&#34;to-use-add-an-image-named-featuredjpgpng-to-your-pages-folder&#34;&gt;To use, add an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; to your page&amp;rsquo;s folder.&lt;/h1&gt;
+&lt;h1 id=&#34;focal-points-smart-center-topleft-top-topright-left-right-bottomleft-bottom-bottomright&#34;&gt;Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.&lt;/h1&gt;
+&lt;p&gt;#image:&lt;/p&gt;
+&lt;h1 id=&#34;caption-&#34;&gt;caption: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;focal_point-&#34;&gt;focal_point: &amp;quot;&amp;quot;&lt;/h1&gt;
+&lt;h1 id=&#34;preview_only-false&#34;&gt;preview_only: false&lt;/h1&gt;
+&lt;h1 id=&#34;projects-optional&#34;&gt;Projects (optional).&lt;/h1&gt;
+&lt;h1 id=&#34;associate-this-post-with-one-or-more-of-your-projects&#34;&gt;Associate this post with one or more of your projects.&lt;/h1&gt;
+&lt;h1 id=&#34;simply-enter-your-projects-folder-or-file-name-without-extension&#34;&gt;Simply enter your project&amp;rsquo;s folder or file name without extension.&lt;/h1&gt;
+&lt;h1 id=&#34;eg-projects--internal-project-references-contentprojectdeep-learningindexmd&#34;&gt;E.g. &lt;code&gt;projects = [&amp;quot;internal-project&amp;quot;]&lt;/code&gt; references &lt;code&gt;content/project/deep-learning/index.md&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;otherwise-set-projects--&#34;&gt;Otherwise, set &lt;code&gt;projects = []&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;projects-&#34;&gt;projects: []&lt;/h1&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;p&gt;title: &amp;ldquo;Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?&amp;rdquo;
+date: 2022-08-01&lt;/p&gt;
+&lt;h1 id=&#34;publishdate-2021-01-05t201352623034z&#34;&gt;publishDate: 2021-01-05T20:13:52.623034Z&lt;/h1&gt;
+&lt;p&gt;authors: [&amp;ldquo;Fotini Christia&amp;rdquo;, &amp;ldquo;Horacio Larreguy&amp;rdquo;, &amp;ldquo;Elizabeth Parker-Magyar&amp;rdquo;, &amp;ldquo;Manuel Quintero]
+publication_types: [&amp;ldquo;3&amp;rdquo;]
+#abstract: &amp;ldquo;We test the relative strength of consumer preferences for internationally recognized labor rights with a series of conjoint experiments #embedded in a survey of more than 2,000 U.S. consumers. We employ a Bayesian approach to estimate consumer demand for ethically-made # Agarments and to simulate how that demand translates into increased profits for apparel firms. We find that reported labor rights violations reduce expected profits while advertising respect for various labor standards through ethical labels and certifications tends to boost them. But the profits flowing from simple labeling initiatives are limited by the ability of other firms to adopt similar advertising campaigns. Since respect for labor rights cannot be patented, corporate social responsibility initiatives may only prove valuable for a handful of first-movers that can incorporate worker protections as a core element of their brand strategy. Our findings have important implications for debates regarding the effectiveness of private governance initiatives.&amp;rdquo;
+featured: true
+publication: &amp;ldquo;Working Paper&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;url_pdf-pdfteitelbaum_ravipdf&#34;&gt;url_pdf: &amp;ldquo;pdf/teitelbaum_ravi.pdf&amp;rdquo;&lt;/h1&gt;
+&lt;p&gt;links:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;name: Link to PDF
+url: pdf/supplemental_information.pdf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
