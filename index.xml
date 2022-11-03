@@ -42,9 +42,9 @@
     
     <item>
       <title>Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?</title>
-      <link>https://biffpm.github.io/publication/egypt_vaw/</link>
+      <link>https://biffpm.github.io/publications/egypt_vaw/</link>
       <pubDate>Wed, 02 Nov 2022 19:06:15 -0400</pubDate>
-      <guid>https://biffpm.github.io/publication/egypt_vaw/</guid>
+      <guid>https://biffpm.github.io/publications/egypt_vaw/</guid>
       <description></description>
     </item>
     
@@ -286,6 +286,25 @@ Three
     </item>
     
     <item>
+      <title>An example journal article</title>
+      <link>https://biffpm.github.io/publications/journal-article/publications-copy/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://biffpm.github.io/publications/journal-article/publications-copy/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
       <link>https://biffpm.github.io/content/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -306,9 +325,9 @@ Three
     
     <item>
       <title>An example conference paper</title>
-      <link>https://biffpm.github.io/publication/example/</link>
+      <link>https://biffpm.github.io/publications/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://biffpm.github.io/publication/example/</guid>
+      <guid>https://biffpm.github.io/publications/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
