@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Elizabeth Parker-Magyar</title>
-    <link>https://biffpm.github.io/publication-type/1/</link>
-      <atom:link href="https://biffpm.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Publications and Working Papers | Elizabeth Parker-Magyar</title>
+    <link>https://biffpm.github.io/publications/articles/</link>
+      <atom:link href="https://biffpm.github.io/publications/articles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications and Working Papers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 1969 18:59:59 -0500</lastBuildDate>
     <image>
       <url>https://biffpm.github.io/media/icon_hue4fd1c3d9f209a6d02a2fe9ab87e4e79_284168_512x512_fill_lanczos_center_2.png</url>
-      <title>1</title>
-      <link>https://biffpm.github.io/publication-type/1/</link>
+      <title>Publications and Working Papers</title>
+      <link>https://biffpm.github.io/publications/articles/</link>
     </image>
     
     <item>
