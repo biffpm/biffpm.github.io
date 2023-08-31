@@ -1,16 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Elizabeth Parker-Magyar</title>
+    <title>Publications and Working Papers | Elizabeth Parker-Magyar</title>
     <link>https://biffpm.github.io/publications/</link>
       <atom:link href="https://biffpm.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
+    <description>Publications and Working Papers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 1969 18:59:59 -0500</lastBuildDate>
     <image>
       <url>https://biffpm.github.io/media/icon_hue4fd1c3d9f209a6d02a2fe9ab87e4e79_284168_512x512_fill_lanczos_center_2.png</url>
-      <title>Publications</title>
+      <title>Publications and Working Papers</title>
       <link>https://biffpm.github.io/publications/</link>
     </image>
+    
+    <item>
+      <title>Can Media Campaigns Empower Women Facing Gender-Based Violence amid COVID-19?</title>
+      <link>https://biffpm.github.io/publications/articles/egypt_vaw/</link>
+      <pubDate>Wed, 31 Dec 1969 18:59:59 -0500</pubDate>
+      <guid>https://biffpm.github.io/publications/articles/egypt_vaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media Narratives across Platforms in Conflict: Evidence from Syria</title>
+      <link>https://biffpm.github.io/publications/articles/syria_nar/</link>
+      <pubDate>Wed, 31 Dec 1969 18:59:58 -0500</pubDate>
+      <guid>https://biffpm.github.io/publications/articles/syria_nar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper-Pusher or President&#39;s Guard: State Work and Contentious Action in Syria&#39;s Uprising (Available Upon Request)</title>
+      <link>https://biffpm.github.io/publications/working_papers/syria_prot/</link>
+      <pubDate>Wed, 31 Dec 1969 18:59:57 -0500</pubDate>
+      <guid>https://biffpm.github.io/publications/working_papers/syria_prot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workplace Networks and Social Movements: Evidence from Jordan (Available Upon Request)</title>
+      <link>https://biffpm.github.io/publications/working_papers/jor_net/</link>
+      <pubDate>Wed, 31 Dec 1969 18:59:56 -0500</pubDate>
+      <guid>https://biffpm.github.io/publications/working_papers/jor_net/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
