@@ -239,6 +239,14 @@ Three
     </item>
     
     <item>
+      <title>An example title</title>
+      <link>https://biffpm.github.io/teaching/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://biffpm.github.io/teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://biffpm.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -297,16 +305,6 @@ outputs:&lt;/p&gt;
 &lt;li&gt;HTML&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://biffpm.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://biffpm.github.io/teaching/</guid>
-      <description>&lt;p&gt;-17.001 Quantitative Methods II: Causal Inference
--Math Camp (2022, 2023)&lt;/p&gt;
 </description>
     </item>
     

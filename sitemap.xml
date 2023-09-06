@@ -41,6 +41,9 @@
     <loc>https://biffpm.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://biffpm.github.io/teaching/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://biffpm.github.io/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -76,7 +79,5 @@
   </url><url>
     <loc>https://biffpm.github.io/admin/</loc>
     <priority>0</priority>
-  </url><url>
-    <loc>https://biffpm.github.io/teaching/</loc>
   </url>
 </urlset>
