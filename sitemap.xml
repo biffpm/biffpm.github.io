@@ -79,5 +79,7 @@
   </url><url>
     <loc>https://biffpm.github.io/admin/</loc>
     <priority>0</priority>
+  </url><url>
+    <loc>https://biffpm.github.io/research/</loc>
   </url>
 </urlset>
