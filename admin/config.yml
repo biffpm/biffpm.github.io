@@ -119,7 +119,7 @@ collections:
     label: Avatar (upload an image named `avatar.jpg/png`)
     media_library:
       config:
-        multiple: true
+        multiple: false
     name: avatar_filename
     required: false
     widget: image
