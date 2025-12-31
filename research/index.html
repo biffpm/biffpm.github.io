@@ -370,16 +370,19 @@
       display: none;
     }
 
-    /* Optional: spacing for abstract */
-    #abstract-nhb {
-      margin: 0.5em 0 1em 0;
-    }
-
-    /* Make the abstract toggle look like normal text but bold & underlined */
+    /* Abstract toggle link (bold & underlined) */
     .abstract-toggle {
       font-weight: bold;
       text-decoration: underline;
       cursor: pointer;
+    }
+
+    /* Abstract text styling: dark green, italic, not underlined */
+    #abstract-nhb p {
+      color: darkgreen;
+      font-style: italic;
+      text-decoration: none; /* just in case */
+      margin: 0.5em 0 1em 0;
     }
   </style>
 </head>
