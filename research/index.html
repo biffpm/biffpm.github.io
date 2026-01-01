@@ -364,27 +364,25 @@
   <title>Research | Elizabeth Parker-Magyar</title>
   
   <title>Abstract Toggle Example</title>
-  <style>
-    /* Hidden class for toggling */
-    .hidden {
-      display: none;
-    }
+<style>
+  /* Hide/show abstracts */
+  .hidden {
+    display: none;
+  }
 
-    /* Abstract toggle link (bold & underlined) */
-    .abstract-toggle {
-      font-weight: bold;
-      text-decoration: underline;
-      cursor: pointer;
-    }
+  /* "Abstract" toggle: italic only, inherit everything else */
+  .abstract-toggle {
+    font-style: italic;
+    cursor: pointer;
+  }
 
-    /* Abstract text styling: dark green, italic, not underlined */
-    #abstract-nhb p {
-      color: darkgreen;
-      font-style: italic;
-      text-decoration: none; /* just in case */
-      margin: 0.5em 0 1em 0;
-    }
-  </style>
+  /* Abstract text: completely normal */
+  .abstract-text {
+    font-style: normal;
+    color: inherit;
+    margin: 0.5em 0 1em 0;
+  }
+</style>
 </head>
 </head>
 
