@@ -350,7 +350,26 @@
     <meta property="article:modified_time" content="2018-06-28T00:00:00&#43;00:00">
   
 
-  
+  <style>
+  /* Hide/show descriptions */
+  .hidden {
+    display: none;
+  }
+
+  /* "Description" toggle: italic + bold, inherit everything else */
+  .description-toggle {
+    font-style: italic;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  /* Description text: normal body text */
+  .description-text {
+    font-style: normal;
+    color: inherit;
+    margin: 0.5em 0 1em 0;
+  }
+</style>
 
 
 
@@ -371,35 +390,10 @@
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="322dbaccf72a6d71f827fdb2866be935" >
 
   
-  
-  
-  
-  
-  
-  
-  
-  
   <script src="/js/wowchemy-init.min.b8153d4570dcbb34350a2a846dba8c03.js"></script>
-
-  
-
-
-
 
   <div class="page-header">
     
-
-
-
-
-
-
-
-
-
-
-
-
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container-xl">
 
@@ -429,122 +423,25 @@
       
       <ul class="navbar-nav d-md-inline-flex">
         
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-            
-            
-            
-              
-            
-            
-          
-        
-
         <li class="nav-item">
           <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
 
         <li class="nav-item">
           <a class="nav-link " href="/research"><span>Research</span></a>
         </li>
 
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-
-        
-        
-        
-        
-
-        
-          
-            
-            
-          
-          
-        
 
         <li class="nav-item">
           <a class="nav-link  active" href="/teaching"><span>Teaching</span></a>
         </li>
 
-        
-        
-
-      
-
-        
       </ul>
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
 
-      
-      
-        
-      
-
-      
-      
-
-      
-      
       <li class="nav-item dropdown theme-dropdown">
         <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
           <i class="fas fa-moon" aria-hidden="true"></i>
@@ -562,10 +459,6 @@
         </div>
       </li>
       
-
-      
-      
-
     </ul>
 
   </div>
@@ -578,52 +471,11 @@
     <article class="article">
 
   
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
 <div class="article-container pt-3">
 <!--  <h1>Teaching</h1> -->
 
-  
-
-  
-    
-
-
 <div class="article-metadata">
 
-  
-  
-
-  
-
-  
-
-  
-
-  
-  
-  
-  
-  
-  
-
-  
-  
 
 </div>
 
@@ -643,11 +495,28 @@
     <div class="article-style">
       <p><large><b>Politics and Regimes of the Middle East</b> (Yale, Undergraduate, Fall 2025)</large> <br></p>
       <p><large><b>Political Science Laboratory</b> (MIT, Undergraduate, Co-Instructor with Hao Zhang, Spring 2024)</large> <br></p>
-<ul>
-<li>The Political Science Laboratory introduces undergraduate political scientists to the basic quantitative tools of political science research. The class explores the key statistical and computational research tools that social scientists use to frame and answer empirical questions. One focus of the class is causal inference: How can we tell causation from mere association? </li>
-<li>Student Rating: 7 out of 7.</li>
-<li> Here is a short <a href="/uploads/MENA_data.pdf" target="_blank">list of MENA related datasets </a> I think would be useful for students with interests in MENA taking similar classes or working to develop their data analysis skills.  </li>
-</ul> <br>
+  <span class="description-toggle"
+        onclick="document.getElementById('desc-psl').classList.toggle('hidden')">
+    Description
+  </span>
+</p>
+
+<div id="desc-psl" class="description-text hidden">
+  <ul>
+    <li>
+      The Political Science Laboratory introduces undergraduate political scientists to the
+      basic quantitative tools of political science research. The class explores key statistical
+      and computational methods used to frame and answer empirical questions, with a particular
+      focus on causal inference.
+    </li>
+    <li>Student Rating: 7 out of 7.</li>
+    <li>
+      Here is a short
+      <a href="/uploads/MENA_data.pdf" target="_blank">list of MENA-related datasets</a>
+      for students interested in developing data analysis skills.
+    </li>
+  </ul>
+</div>
 <p><large><b>Math Camp I</b> (MIT, Graduate, Co-Instructor with Hao Zhang, August 2022, August 2023) <br></p>
 <ul>
 <li> The Math Prefesher is designed to introduce and review core mathematics and programming prerequisites that students need to be successful in the graduate quantitative methods courses in the Political Science department and elsewhere at MIT. </li>
