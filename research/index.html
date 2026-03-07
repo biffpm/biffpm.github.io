@@ -372,9 +372,19 @@
 
   /* "Abstract" toggle: italic only, inherit everything else */
 .abstract-toggle {
-  font-style: italic;
-  font-weight: bold;
+  font-style: normal;
+  font-weight: normal;
   cursor: pointer;
+  color: #1565c0;
+}
+.abstract-toggle::before {
+  content: '[';
+}
+.abstract-toggle::after {
+  content: ']';
+}
+.abstract-toggle:hover {
+  text-decoration: underline;
 }
 
   /* Abstract text: completely normal */
