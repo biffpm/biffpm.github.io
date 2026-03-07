@@ -372,19 +372,18 @@
 
   /* "Abstract" toggle: italic only, inherit everything else */
 .abstract-toggle {
+  display: inline-block;
   font-style: normal;
   font-weight: normal;
   cursor: pointer;
-  color: #1565c0;
-}
-.abstract-toggle::before {
-  content: '[';
-}
-.abstract-toggle::after {
-  content: ']';
+  color: #fff;
+  background-color: #1565c0;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
 }
 .abstract-toggle:hover {
-  text-decoration: underline;
+  background-color: #0d47a1;
 }
 
   /* Abstract text: completely normal */
