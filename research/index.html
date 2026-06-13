@@ -366,8 +366,8 @@
   <title>Abstract Toggle Example</title>
 <style>
   /* Hide/show abstracts */
-  .hidden {
-    display: none;
+  .abstract-collapsed {
+    display: none !important;
   }
 
   /* "Abstract" toggle: italic only, inherit everything else */
@@ -681,11 +681,8 @@
     <p><a href="https://osf.io/preprints/osf/9c5vu_v2">Paper-Pusher or President’s Guard? State Work and Contentious Action in the Syrian Uprising,</a>
     <em>Conditionally Accepted, Journal of Peace Research</em>
     [<a href="https://osf.io/preprints/osf/9c5vu_v2">Preprint</a>]<br>
-    <span class="abstract-toggle"
-          onclick="document.getElementById(‘abstract-syp’).classList.toggle(‘hidden’)">
-      Abstract
-    </span>
-    <div id="abstract-syp" class="abstract-text hidden">
+    <span class="abstract-toggle" data-target="abstract-syp">Abstract</span>
+    <div id="abstract-syp" class="abstract-text abstract-collapsed">
       <p>
       How does work for the state shape local protest against authoritarian regimes? Autocrats can manipulate how both
       repressive and conventional state workers are selected, compensated and surveilled in ways that can
@@ -709,11 +706,8 @@
     with Erin Walk, Kiran Garimella, Ahmet Akbiyik, and Fotini Christia.
     <em>The Journal of Politics</em>, Vol. 87, no. 2 (2025): 449–463.
     [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075120">Preprint</a>|<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4YRDQA">Replication Data and Code</a>]<br>
-    <span class="abstract-toggle"
-          onclick="document.getElementById(‘abstract-jop’).classList.toggle(‘hidden’)">
-      Abstract
-    </span>
-    <div id="abstract-jop" class="abstract-text hidden">
+    <span class="abstract-toggle" data-target="abstract-jop">Abstract</span>
+    <div id="abstract-jop" class="abstract-text abstract-collapsed">
       <p>
         How do representations of violent conflict differ across social media platforms?
         We constructed and analyzed comparable datasets of public messages and images from
@@ -736,11 +730,8 @@
     <p><a href="https://www.nature.com/articles/s41562-023-01665-y">Empowering women facing gender-based violence amid COVID-19 through media campaigns.</a>
     <em>Nature Human Behavior</em>, Vol. 7, no. 10 (2023): 1740–1752.
     [<a href="https://www.dropbox.com/scl/fi/26vr5mt1ysjff3sz9qixq/NHB_R-R-Clean.pdf">Preprint</a>|<a href="https://www.socialscienceregistry.org/trials/7459/history/88751">Pre-Analysis Plan</a>|<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VFFZRM">Replication Data and Code</a>|<a href="https://www.povertyactionlab.org/evaluation/connecting-egyptian-women-gender-based-violence-resources-social-media-during-covid-19">JPAL Write-Up</a>|<a href="https://news.mit.edu/2023/using-social-media-womens-resources-egypt-0807">MIT News Write-Up</a>]<br>
-    <span class="abstract-toggle"
-          onclick="document.getElementById(‘abstract-nhb-1’).classList.toggle(‘hidden’)">
-      Abstract
-    </span>
-    <div id="abstract-nhb-1" class="abstract-text hidden">
+    <span class="abstract-toggle" data-target="abstract-nhb-1">Abstract</span>
+    <div id="abstract-nhb-1" class="abstract-text abstract-collapsed">
       <p>
         COVID-19 heightened women’s exposure to gender-based and intimate partner violence,
         especially in low-income and middle-income countries. We tested whether edutainment
@@ -762,11 +753,8 @@
   <li>
     <p><b>Workplace Networks and Civil Society: Evidence from Jordan.</b>
     <em>Under Review, Available Upon Request</em><br>
-    <span class="abstract-toggle"
-          onclick="document.getElementById(‘abstract-jonet’).classList.toggle(‘hidden’)">
-      Abstract
-    </span>
-    <div id="abstract-jonet" class="abstract-text hidden">
+    <span class="abstract-toggle" data-target="abstract-jonet">Abstract</span>
+    <div id="abstract-jonet" class="abstract-text abstract-collapsed">
       <p>
       Why are some groups of individuals able to develop and sustain autonomous organizations in non-democratic
       settings? I point to an under-theorized resource: the networks individuals develop working within the
@@ -990,9 +978,15 @@
     
     <script src="/en/js/wowchemy.min.c7dbcd0a03997d954a216caf59fc7681.js"></script>
 
-    
 
-
+<script>
+document.querySelectorAll('.abstract-toggle').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    var target = document.getElementById(btn.getAttribute('data-target'));
+    if (target) target.classList.toggle('abstract-collapsed');
+  });
+});
+</script>
 
 
 
